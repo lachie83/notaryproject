@@ -55,7 +55,7 @@ The Org Maintainers will select a chair to set agendas and call meetings of the 
 
 ### Subproject Maintainers
 
-Subproject maintainers are responsible for activities surrounding the development and release of code, the operation of any services they own (e.g., the documentation site), or the tasks needed to execute their subproject (e.g., community management). Technical decisions for code resides with the subproject maintainers unless there is a decision related to cross maintainer groups that cannot be resolved by those groups. Those cases can be escalated to the org maintainers.
+Subproject maintainers are responsible for activities surrounding the development and release of content (eg. code, specifications, documentation) or the tasks needed to execute their subproject (e.g., community management) within the designated repository, or repositories associated with the subproject (e.g., community management). Technical decisions for code resides with the subproject maintainers unless there is a decision related to cross maintainer groups that cannot be resolved by those groups. Those cases can be escalated to the org maintainers.
 
 Subproject maintainers many be responsible for one or many repositories.
 
